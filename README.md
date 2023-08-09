@@ -74,5 +74,7 @@ routes/modules. Also I'd write some e2e tests using `express` to ensure that gam
 One more thing I wanted to do is packing all this stuff with Docker (compose) and deploying it somewhere like Heroku.
 But didn't have enough time =(
 
+Oh, yeah! I'd also improve the UI. Make it looking more like a retro game.
+
 I'm out of any other thoughts for now and leaving the project for a review in this state. I'll add more details (if
 remember) afterwards.
