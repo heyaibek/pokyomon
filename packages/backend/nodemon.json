@@ -1,0 +1,12 @@
+{
+  "ignore": [
+    ".git",
+    "node_modules",
+    "dist"
+  ],
+  "watch": [
+    "./src"
+  ],
+  "exec": "node -r dotenv/config --inspect ./node_modules/.bin/ts-node --files ./src/index.ts dotenv_config_path=.env",
+  "ext": "ts"
+}
